@@ -1,12 +1,10 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:55:40.470288
-#+TITLE: 華嚴經疏
-#+PROPERTY: CBETA_ID T85n2755
-#+PROPERTY: ID KR6e0027
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2755
-#+PROPERTY: VOL 85
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6e0027_T_000-0217b>¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+TITLE: 華嚴經疏 / master
+#+DATE: 2015-11-26 14:10:48.549173
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
 
-[[file:KR6e0027_001.txt::0217c24][5花嚴藏世界品]]
+* 目次
+* [[file:KR6e0027_001.txt::0217c24][5花嚴藏世界品]]
+* 卷
+** [[file:KR6e0027_001.txt][華嚴經疏 1]]

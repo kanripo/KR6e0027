@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:40.486018
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:47
 #+TITLE: 華嚴經疏
 #+PROPERTY: CBETA_ID T85n2755
 #+PROPERTY: ID KR6e0027
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2755
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0027_T_000-0217b>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0027_T_001-0217b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.2755[cf.No.279]¶
-
- 華嚴經疏¶
+No. 2755 [cf. No. 279]¶
+華嚴經疏¶
 ¶
 
 剎准可知。頌中有十。初一頌劫差別。二劫¶
@@ -57,11 +56,7 @@ No.2755[cf.No.279]¶
 一性通。二願力。並可知。上來明世界海成就¶
 品竟。¶
 
-5花嚴藏世界品
-:PROPERTIES:
-:head: 花嚴藏世界品第五
-:END:
-¶
+* 花嚴藏世界品第五¶
 
 將釋此品四門同前。初釋名者。梵本具言花。¶
 謂蓮花。藏即。含藏。謂花臺之上積諸世界布¶
